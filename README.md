@@ -1,0 +1,1 @@
+# Studying diferents service worker implementations
